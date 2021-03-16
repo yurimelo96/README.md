@@ -16,5 +16,6 @@
 
 - Automação de teste
 - Testes de desempenho
+- Testes API
+- Testes Mobile
 - Docker, pipeline as code
-- Ferramentas DevOps e monitoramento
