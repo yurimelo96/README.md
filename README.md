@@ -12,7 +12,7 @@
 
 
 ---------------------------------------------------------------------------------
-💡💡 ESTOU ESTUDANDO
+💡💡 Habilidades
 
 - Automação de teste
 - Testes de desempenho
